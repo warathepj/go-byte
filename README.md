@@ -12,21 +12,18 @@ This project provides practical examples of working with bytes in Go, which are 
 
 ## Installation
 
-TODO:
-
-///////////
-
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bytedemo.git
-   cd bytedemo
+   git clone https://github.com/warathepj/go-byte.git
+   cd go-byte
    ```
 
 2. Build the project:
-   ```bash
-   go build
-   ```
+
+```bash
+go build
+```
 
 ## Usage
 
@@ -34,12 +31,6 @@ Run the program:
 
 ```bash
 go run main.go
-```
-
-Or, after building:
-
-```bash
-./bytedemo
 ```
 
 ## Key Concepts Demonstrated
